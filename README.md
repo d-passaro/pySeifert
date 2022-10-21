@@ -25,7 +25,7 @@ load("path/to/pySeifert.sage")
 ```
 Functions are documented in code, and running:
 ```
-  help(function)
+help(function)
 ```
 will print some basic information and usage examples.
 
