@@ -2,13 +2,13 @@
 A [Sage](https://www.sagemath.org/) module for the computation of $\hat{Z}$ invariants of Seifert manifolds with three and four singular fibers. PySeifert was developed as a companion to "3 Manifolds and VOA characters" [ArXiv:2201.04640](https://www.arxiv.org/abs/2201.04640), to aide in the computation of topological invariants for Seifert manifolds and characters of certain vertex operator algebras.
 
 ## Autors:
-    Miranda C. N. Cheng,
-    Sungbong Chun,
-    Boris Feigin,
-    Francesca Ferrari,
-    Sergei Gukov,
-    Sarah M. Harrison,
-    Davide Passaro (2022-05-06): initial version
+*Miranda C. N. Cheng,
+*Sungbong Chun,
+*Boris Feigin,
+*Francesca Ferrari,
+*Sergei Gukov,
+*Sarah M. Harrison,
+*Davide Passaro (2022-10-21): initial version
 
 
 ## Key Features
@@ -32,7 +32,7 @@ load("path/to/pySeifert.sage")
 ```
 Functions are documented in code, and running:
 ```
-   help(function)
+  help(function)
 ```
 will print some basic information and usage examples.
 
