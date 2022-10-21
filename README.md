@@ -27,7 +27,7 @@ Functions are documented in code, and running:
 ```
 help(function)
 ```
-will print some basic information and usage examples.
+will print some basic information and usage examples. Examples in the form of jupyter notebooks are also provided.
 
 
 ## Requirements
