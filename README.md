@@ -30,6 +30,12 @@ Clone the repository and load the PySeifert module in Sage using the [load](http
 ```
 load("path/to/pySeifert.sage")   
 ```
+Functions are documented in code, and running:
+```
+   help(function)
+```
+will print some basic information and usage examples.
+
 
 ## Requirements
 
