@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: pySeifert
+message: >-
+  A Sage-Python toolkit for analyzing Seifert
+  manifolds with three or four exceptional fibers.
+type: software
+authors:
+  - given-names: Davide
+    family-names: Passaro
+    email: passaro.davide@protonmail.com
+  - given-names: Miranda
+    family-names: Cheng
+  - given-names: Sungbong
+    family-names: Chun
+  - given-names: Boris
+    family-names: Feigin
+  - given-names: Francesca
+    family-names: Ferrari
+  - given-names: Sarah
+    family-names: Harrison
+  - given-names: Sergei
+    family-names: Gukov
